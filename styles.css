@@ -1,0 +1,30 @@
+body {
+	background-color: grey;
+}
+
+h1 {
+	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-size: 80px;
+}
+
+h6 {
+	font-family: Coronetscript, cursive;
+	font-size: 30px;
+}
+
+#pick {
+	visibility: hidden;
+	font-family: Coronetscript, cursive;
+	font-size: 20px;
+}
+
+.flex-nowrap {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	width: 40%;
+}
+
+.bttn {
+	margin-right: 5px;
+	margin-bottom: 5px
+}
